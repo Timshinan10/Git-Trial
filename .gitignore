@@ -1,1 +1,3 @@
-mylogs.log
+/hello.html
+*.log
+ignore/
